@@ -87,7 +87,6 @@ The dataset includes 15,000 customer records across the following columns:
 1. Clone the repository:
 ```bash
 git clone https://github.com/pythonist4444/Datacamp-Certification-Sales-EDA
-cd product-sales-strategy
 ```
 
 2. Open the notebook or markdown report to explore the project:
